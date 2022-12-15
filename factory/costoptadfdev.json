@@ -1,0 +1,9 @@
+{
+	"name": "costoptadfdev",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "25755b3f-3bd1-4e45-9119-5161c89f87f3",
+		"tenantId": "449fbe1d-9c99-4509-9014-4fd5cf25b014"
+	}
+}
