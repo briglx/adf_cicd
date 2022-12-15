@@ -1,0 +1,12 @@
+{
+	"name": "SolarSystemOpenData",
+	"properties": {
+		"annotations": [],
+		"type": "RestService",
+		"typeProperties": {
+			"url": "https://api.le-systeme-solaire.net/rest/",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
